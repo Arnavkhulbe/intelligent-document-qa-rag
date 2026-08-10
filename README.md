@@ -1,4 +1,4 @@
-# LangChain RAG Project
+# Intelligent Document Question Answering System using RAG
 
 A Retrieval-Augmented Generation (RAG) application built using Python, LangChain, ChromaDB, Hugging Face embeddings, and Groq LLM.
 
